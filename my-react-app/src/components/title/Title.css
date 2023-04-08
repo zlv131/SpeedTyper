@@ -1,0 +1,28 @@
+.wrapper__title{
+    background: #243241;
+    border-radius: 5px;
+    width: 550px;
+    height: 45px;
+}
+
+.title{
+    padding: 3px 0px 0px 0px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.scoreVisible{
+    display: grid;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+}
+
+.score{
+    display: none;
+}

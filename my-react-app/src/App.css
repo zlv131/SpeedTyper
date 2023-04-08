@@ -1,0 +1,10 @@
+.App{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.wrapper__app{
+    display: flex;
+    justify-content: center;
+    margin: 200px 0px 0px 0px;
+}

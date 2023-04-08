@@ -1,0 +1,21 @@
+
+.wrapper__cardMenu{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+    width: 600px;
+    height: 240px;
+    background: #34495e;
+    box-shadow:
+            inset 0 -3em 3em rgba(0,0,0,0.1),
+            0.3em 0.3em 1em rgba(0,0,0,0.3);
+}
+
+.contentIndicatorsFormVisible{
+    display: block;
+}
+
+.contentIndicatorsForm{
+    display: none;
+}

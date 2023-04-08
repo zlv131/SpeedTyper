@@ -1,0 +1,49 @@
+.wrapper__indicators{
+
+}
+
+.wrapper__scoreTimerleft{
+    display: grid;
+    margin: 10px 0px 0px 0px;
+
+}
+
+.indicators__timeLeft{
+    grid-column: 1 / 2;
+    width: 470px;
+
+
+    color: white;
+    font-size: 20px;
+}
+
+.indicators__score{
+    grid-column: 2 / 3;
+
+
+    color: white;
+    font-size: 20px;
+}
+
+.wrapper__titleNextWord{
+    display: grid;
+    margin: 10px 0px 0px 0px;
+}
+
+.indicators__title{
+    display: grid;
+    justify-content: center;
+
+
+    color: white;
+    font-size: 16px;
+}
+
+.indicators__nextWord{
+    display: grid;
+    justify-content: center;
+    margin: 5px 0px 0px 0px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
